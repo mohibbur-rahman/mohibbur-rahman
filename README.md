@@ -22,8 +22,8 @@
  
  </div>
  
-<div align="left"> 
- <p align="left">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 <a href="https://twitter.com/mohibburrahman_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohibburrahman_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/md-mohibbur-rahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-mohibbur-rahman" height="30" width="40" /></a>
 <a href="https://fb.com/mohibburrahmantarango" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohibburrahmantarango" height="30" width="40" /></a>
@@ -31,7 +31,6 @@
 <a href="https://www.behance.net/mdmohibburrahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="mdmohibburrahman" height="30" width="40" /></a>
 <a href="https://medium.com/@mohibburrahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mohibburrahman" height="30" width="40" /></a>
 </p>
-</div>
 
  <hr/>
  
@@ -60,7 +59,11 @@
   <img width=500 src="https://streak-stats.demolab.com?user=mohibbur-rahman&theme=dark&border_radius=0" alt="streak stats"/>
     <br/>
     
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=0" alt="readme stats" />
+    https://github-readme-stats.vercel.app/api/top-langs?username=mohibbur-rahman&show_icons=true&locale=en&layout=compact" alt="mohibbur-rahman
+    
+  <img width=500 src="https://github-readme-stats.vercel.app/api/top-langs?username=mohibbur-rahman&count_private=true&show_icons=true&theme=dark&rank_icon=github&border_radius=0" alt="readme stats" />
+
+    
   <br/>
-  <img width=325 align="left" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=500 align="left" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
