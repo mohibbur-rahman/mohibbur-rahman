@@ -51,6 +51,7 @@
 <div align=left>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohibbur-rahman&show_icons=true&locale=en&layout=compact" alt="mohibbur-rahman" /></p>
-<br/> <br/>
+
 <p><img width=600 align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mohibbur-rahman&" alt="mohibbur-rahman" /></p>
+<br/> <br/>
 </div>
