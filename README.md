@@ -1,10 +1,11 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mohibbur-rahman.mohibbur-rahman" />
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+<h1 align="left">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Md.Mibbur+Rahman!;" />
 </h1>
+  <img src="https://media.licdn.com/dms/image/D5616AQGaAit2kgrRyw/profile-displaybackgroundimage-shrink_350_1400/0/1697721194291?e=1703116800&v=beta&t=P-dfNfOTZNiZaL1osCVKj6U7MGwNnuuZcL3JqsYLGf4" />
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+<h3 align="left">Modern WordPress Developer With Strong Webflow Experience.</h3>
 
 <br/>
 
