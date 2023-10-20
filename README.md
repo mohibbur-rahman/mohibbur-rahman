@@ -32,7 +32,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohibbur-rahman" alt="mohibbur-rahman" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohibbur-rahman&show_icons=true&locale=en&layout=compact" alt="mohibbur-rahman" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohibbur-rahman&show_icons=true&locale=en&layout=compact" alt="mohibbur-rahman" /></p><br>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mohibbur-rahman&show_icons=true&locale=en" alt="mohibbur-rahman" /></p>
 
