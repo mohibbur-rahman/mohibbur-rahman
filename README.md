@@ -4,6 +4,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Anton&size=35&left=true&vleft=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Md.Mohibbur+Rahman!;" />
 </h1>
 
+<h1 align="left">
+    <img src="http://readme-typing-svg.herokuapp.com?font=&weight=900&size=35&pause=1000&color=323232&random=false&width=435&lines=Hi+There!%F0%9F%91%8B;I+Am+Md.+Mohibbur+Rahman;" />
+</h1>
+
 <img src="https://media.licdn.com/dms/image/D5616AQGaAit2kgrRyw/profile-displaybackgroundimage-shrink_350_1400/0/1697721194291?e=1703116800&v=beta&t=P-dfNfOTZNiZaL1osCVKj6U7MGwNnuuZcL3JqsYLGf4" />
 
 <h3 align="left">Modern WordPress Developer With Strong Webflow Experience.</h3>
