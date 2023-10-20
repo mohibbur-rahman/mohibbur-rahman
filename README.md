@@ -57,7 +57,6 @@
 <hr/>
 
 <h2 align="left">⚒️ Stats ⚒️</h2>
-<br>
 <div align=left>
   <img width=390 src="https://streak-stats.demolab.com/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
     <br/>
@@ -71,5 +70,6 @@
 <h3 align="left">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&left=true&vleft=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
 </h3>
+
 <br/>
 
