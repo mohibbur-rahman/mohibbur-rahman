@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohibbur-rahman&label=Profile%20views&color=0e75b6&style=flat" alt="mohibbur-rahman" /> </p>
 
-<img align=”right” width=400 alt=”coding” src=https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw1SwDWjmQU774207cYvXNkL&ust=1697894938056000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIC4udXdhIIDFQAAAAAdAAAAABAE>
+<p><img align="right" width=400 alt="coding" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw1SwDWjmQU774207cYvXNkL&ust=1697894938056000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIC4udXdhIIDFQAAAAAdAAAAABAE" /></p>
 
 - 🔭 I’m currently working on [CodemanBD](https://codemanbd.com/)
 
