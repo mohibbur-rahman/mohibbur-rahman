@@ -49,11 +49,13 @@
 
 <h2 align="left">💥 Stats 💥</h2>
 <div align=left>
+    
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mohibbur-rahman&show_icons=true&locale=en" alt="mohibbur-rahman" /></p>
+<br/>
+    
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohibbur-rahman&show_icons=true&locale=en&layout=compact" alt="mohibbur-rahman" /></p>
 <br/>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mohibbur-rahman&show_icons=true&locale=en" alt="mohibbur-rahman" /></p>
-<br/>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mohibbur-rahman&" alt="mohibbur-rahman" /></p>
 </div>
