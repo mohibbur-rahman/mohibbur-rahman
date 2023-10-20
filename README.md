@@ -6,7 +6,7 @@
 </h1>
 
 <h1 align="left">
-    <img src="http://readme-typing-svg.herokuapp.com?font=Sometype+Mono&size=30&pause=50&color=323232&random=false&width=600&height=70&lines=Hi+There!%F0%9F%91%8B;I+Am+Md.+Mohibbur+Rahman;" />
+    <img src="http://readme-typing-svg.herokuapp.com?font=Sometype+Mono&weight=700&size=30&pause=50&color=323232&random=false&width=600&height=70&lines=Hi+There!%F0%9F%91%8B;I+Am+Md.+Mohibbur+Rahman;" />
 </h1>
 
 <img src="https://media.licdn.com/dms/image/D5616AQGaAit2kgrRyw/profile-displaybackgroundimage-shrink_350_1400/0/1697721194291?e=1703116800&v=beta&t=P-dfNfOTZNiZaL1osCVKj6U7MGwNnuuZcL3JqsYLGf4" />
