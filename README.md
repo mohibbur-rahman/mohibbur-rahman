@@ -49,11 +49,6 @@
 
 <h2 align="left">💥 Stats 💥</h2>
 <div align=left>
-    
-    
-<p><img width=500 src="https://github-readme-stats.vercel.app/api/top-langs?username=mohibbur-rahman&show_icons=true&locale=en&layout=compact" alt="mohibbur-rahman" /> </p>
-<br/>
-
 
 <p><img width=500 align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mohibbur-rahman&" alt="mohibbur-rahman" /></p>
 <br/><br/>
