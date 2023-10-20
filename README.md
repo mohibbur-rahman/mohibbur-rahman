@@ -51,13 +51,11 @@
 
 <h2 align="left">💥 Stats 💥</h2>
 <div align=left>
-  <img width=500 src="https://streak-stats.demolab.com?user=mohibbur-rahman&theme=dark&border_radius=0" alt="streak stats"/>
-    <br/>
-    
-    
-  <img width=500 src="https://github-readme-stats.vercel.app/api/top-langs?username=mohibbur-rahman&count_private=true&show_icons=true&theme=dark&rank_icon=github&border_radius=0" alt="readme stats" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohibbur-rahman&show_icons=true&locale=en&layout=compact" alt="mohibbur-rahman" /></p>
+<br/>
 
-    
-  <br/>
-  <img width=500 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohibbur-rahman&hide=HTML&langs_count=8&layout=compact&theme=dark&border_radius=0&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohibbur-rahman&show_icons=true&locale=en" alt="mohibbur-rahman" /></p>
+<br/>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohibbur-rahman&" alt="mohibbur-rahman" /></p>
 </div>
