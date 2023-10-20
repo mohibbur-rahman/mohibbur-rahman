@@ -1,10 +1,5 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mohibbur-rahman.mohibbur-rahman" />
 
-
-<h1 align="left">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Anton&size=35&left=true&vleft=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Md.Mohibbur+Rahman!;" />
-</h1>
-
 <h1 align="left">
     <img src="http://readme-typing-svg.herokuapp.com?font=Sometype+Mono&weight=700&size=30&pause=50&color=323232&random=false&width=600&height=70&lines=Hi+There!%F0%9F%91%8B;I+Am+Md.+Mohibbur+Rahman;" />
 </h1>
@@ -15,15 +10,15 @@
 
 <br/>
 
-<div align="center">
+<div align="left">
  
- 🔭 I’m currently working on **a chat app**
+ 🔭 I’m currently working on **webbattalion.co**
  
- 🌱 I’m currently learning **Redis, Tailwind, React Native Expo**
+ 🌱 I’m currently learning **React, Redux**
 
- 💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything [here](https://github.com/salesp07/salesp07/issues)**
+ 💬 Ask me about **WordPress, Webflow, Css, Javascript... or anything [here](https://wa.me/+8801785-421818)**
 
- ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+ ⚡ Fun fact **I'm Passionate About Learning New Stuffs**
  
  </div>
  
