@@ -65,5 +65,5 @@
 
     
   <br/>
-  <img width=500 align="left" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=500 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohibbur-rahman&hide=HTML&langs_count=8&layout=compact&theme=dark&border_radius=0&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
