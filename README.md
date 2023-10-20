@@ -36,7 +36,7 @@
 
  <hr/>
  
-<h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="left">💥 Languages-Frameworks-Tools 💥</h2>
 <br/>
 <div align="left">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
@@ -47,7 +47,7 @@
 <hr/>
 
 <div align="left">
-  <h2>⚒️ My Contributions ⚒️</h2>
+  <h2>😎 My Contributions 😎</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
