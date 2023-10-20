@@ -44,12 +44,7 @@
 <br/>
 <hr/>
 
-<div align="left">
-  <h2>😎 My Contributions 😎</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
+<br/><br/><br/>
 </div>
 
 <hr/>
@@ -59,7 +54,6 @@
   <img width=500 src="https://streak-stats.demolab.com?user=mohibbur-rahman&theme=dark&border_radius=0" alt="streak stats"/>
     <br/>
     
-    https://github-readme-stats.vercel.app/api/top-langs?username=mohibbur-rahman&show_icons=true&locale=en&layout=compact" alt="mohibbur-rahman
     
   <img width=500 src="https://github-readme-stats.vercel.app/api/top-langs?username=mohibbur-rahman&count_private=true&show_icons=true&theme=dark&rank_icon=github&border_radius=0" alt="readme stats" />
 
